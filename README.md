@@ -8,8 +8,7 @@
 | Mata Kuliah |UAS Basis Data  |
 
 ## 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
-**OUTPUT**
-![uas1](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/5452614e-a8fb-4584-99e0-215afcab315e)
+# **OUTPUT**
 
 ## 2.Menampilkan Nama Proyek yang dikerjakan oleh Karyawan dari Departemen 'RnD'
 **OUTPUT**
