@@ -9,22 +9,23 @@
 
 ## 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
 # **OUTPUT**
+![ss uas 1](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/83608cd0-5239-40ea-ae6b-fcb24eefcd2a)
 
 ## 2.Menampilkan Nama Proyek yang dikerjakan oleh Karyawan dari Departemen 'RnD'
 **OUTPUT**
-![UAS 2](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/df2515a5-c8ae-44e1-8ddf-65fd62a5392f)
+![ss uas 2](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/e7ce9037-f455-4158-8446-04156ec3359a)
 
 ## 3. Menampilkan Nama Karyawan yang Terlibat dalam Lebih dari Satu Proyek
 **OUTPUT**
-![UAS 3](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/7a6afa88-9fa0-4415-9985-e7ed17312945)
+![ss uas 3](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/d08fb243-8616-446b-a384-42a0db546f04)
 
 ## 4. Menampilkan Nama Proyek yang melibatkan Karyawan terbanyak.
 **OUTPUT**
-![UAS 4](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/bb821b55-ef1a-4333-8ffc-649878688940)
+![ss uas 4](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/1a187ee7-c06d-4f5a-83ee-c4fcd547f4fa)
 
 ## 5. Menampilkan Nama Proyek yang Diikuti oleh Karyawan dengan Gaji Pokok
 Kurang dari 3 Juta
 **OUTPUT**
-![UAS 5](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/59ddd249-3b2a-4716-8f8a-1a6708ad0e24)
+![ss uas 5](https://github.com/anandarahmadani/Praktikum-Uas/assets/147919907/1fb3f2c2-dae3-46d0-ada1-fe0599864f79)
 
 #SELESAI
